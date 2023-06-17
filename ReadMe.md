@@ -11,7 +11,7 @@ Lucas Farias<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-farias-das-neves-118845239/) 
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:lucasfarias.ln@gmail.com?subject=&body=)
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Email&logoColor=white)](mailto:lucasfarias.ln@gmail.com?subject=&body=)
 
 
 ---
