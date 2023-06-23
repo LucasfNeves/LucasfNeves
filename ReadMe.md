@@ -1,12 +1,12 @@
 # Lucas Farias
-<p>Student  <em> Analysis and Systems Development </em>  At Universidade Presbiteriana Mackenzie.</p>
+<p>Student <em> Systems Analysis </em> and Development At University Mackenzie.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-farias-das-neves-118845239/) <br>
 [![](https://visitcount.itsvg.in/api?id=LucasfNeves&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p> Enthusiast of Technology & Computing. </p>
 
-<h2>Tech Stack:</h2>
+<h2>Technology:</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="DOT-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
