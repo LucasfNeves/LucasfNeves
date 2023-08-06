@@ -5,7 +5,7 @@
 <h3>Contact:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-farias-das-neves-118845239/) <br>
-![image](https://github.com/LucasfNeves/LucasfNeves/assets/136910031/5b23d37e-0f35-4ea3-bcf1-b1606b088884)](<a href="mailto:lucasfarias.ln@gmail.com?>lucasfarias.ln@gmail.com</a>")
+<a href="mailto:lucasfarias.ln@gmail.com?">lucasfarias.ln@gmail.com <img align="center" alt="Send-Email" height="40" width="50"  src="https://github.com/LucasfNeves/LucasfNeves/assets/136910031/5b23d37e-0f35-4ea3-bcf1-b1606b088884"></a>
 
 
 </div>
