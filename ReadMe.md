@@ -1,6 +1,8 @@
 ## Lucas Neves
 
-Meu nome é Lucas e sou Brasileiro (🇧🇷). Atualmente busco minha primeira vaga como desenvolvedor Web. No momento estou estudando Backend com JAVA e Spring Boot, e também estudo o Frontend com o JavaScript, HTML5 e CSS3
+Meu nome é Lucas e sou Brasileiro (BR). Atualmente busco minha primeira vaga como desenvolvedor Web. No momento estou estudando Backend com JAVA e Spring Boot, e também estudo o Frontend com o JavaScript, HTML5 e CSS3
+
+##
 
 #### Tecnologias :
 <div style="display: inline_block">
