@@ -1,6 +1,6 @@
 ## Lucas Neves
 
-Meu nome é Lucas sou Brasileiro (BR). Desenvolvedor Front-end com experiência em Desenvolvimento Full-Stack e desenvolvimento Mobile.
+Meu nome é Lucas sou Brasileiro (BR). Desenvolvedor Web.
 Cursando Análise e Desenvolvimento de Sistemas na universidade Mackenzie. 
 
 ##
