@@ -1,7 +1,6 @@
 ## Lucas Neves
 
-Meu nome é Lucas sou Brasileiro (BR). Desenvolvedor Web.
-Cursando Análise e Desenvolvimento de Sistemas na universidade Mackenzie. 
+My name is Lucas Farias, I am Web Developer.
 
 ##
 
