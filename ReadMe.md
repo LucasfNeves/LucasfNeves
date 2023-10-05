@@ -1,6 +1,6 @@
 ## Lucas Neves
 
-Meu nome é Lucas sou Brasileiro (BR). Sou Desenvolvedor Front-end com experiência em Desenvolvimento Full-Stack. 
+Meu nome é Lucas sou Brasileiro (BR). Desenvolvedor Front-end com experiência em Desenvolvimento Full-Stack e desenvolvimento Mobile.
 Cursando Análise e Desenvolvimento de Sistemas na universidade Mackenzie. 
 
 ##
@@ -9,6 +9,7 @@ Cursando Análise e Desenvolvimento de Sistemas na universidade Mackenzie.
 <div style="display: inline_block">
     <img align="center" alt="DOT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="DOT-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="DOT-Rj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-js/react-js-plain.svg">
     <img align="center" alt="DOT-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
 </div>
 
