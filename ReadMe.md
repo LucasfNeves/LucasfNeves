@@ -18,7 +18,8 @@ Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteri
 </div>
 
 ##
-
+<div>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-ap&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="Guilherme-ap" style="height:180px;max-height:100%)
 ![](https://github-readme-stats.vercel.app/api?username=LucasfNeves&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-
+</div>
 
