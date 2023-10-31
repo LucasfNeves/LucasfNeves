@@ -2,7 +2,7 @@
 
 ## Olá, seja bem vindo ! 👋
 
-Meu nome é Lucas Farias, tenho 20 anos, e sou desenvolvedor web.
+Meu nome é Lucas Farias, tenho 20 anos, e sou desenvolvedor web. <br>
 Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie.
 
 ##
