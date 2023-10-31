@@ -5,9 +5,8 @@
 Meu nome é Lucas Farias, tenho 20 anos, e sou desenvolvedor web. <br>
 Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie.
 
-##
 
-#### Tecnologias :
+## Tecnologias :
 <div style="display: inline_block">
     <img align="center" alt="DOT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="DOT-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +16,6 @@ Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteri
           
 </div>
 
-##
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasfNeves&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas de Contribuições" style="height:180px;max-height:100%;">
