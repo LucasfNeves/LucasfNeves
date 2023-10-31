@@ -19,8 +19,10 @@ Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteri
 
 ##
 
-<div style="display: flex; justify-content: center; gap: 2rem; width:100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasfNeves&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="Estatísticas de Linguagens" style="width: 44%;">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasfNeves&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="Estatísticas de Linguagens" style="width: 48%;">
+    <div style="width: 2%"></div> <!-- Espaço entre as imagens -->
     <img src="https://github-readme-stats.vercel.app/api?username=LucasfNeves&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas de Contribuições" style="width: 48%;">
 </div>
+
 
