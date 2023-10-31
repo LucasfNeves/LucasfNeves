@@ -1,6 +1,9 @@
 ## Lucas Neves
 
-My name is Lucas Farias, I am Web Developer.
+## Olá, seja bem vindo ! 👋
+
+Meu nome é Lucas Farias, tenho 20 anos, e sou desenvolvedor web.
+Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie.
 
 ##
 
