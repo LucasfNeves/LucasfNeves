@@ -18,7 +18,7 @@ Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteri
 </div>
 
 ##
-<div style="display: inline_block" >
+<div style="display: flex; justify-content: space-between;" >
     
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=LucasfNeves&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact)
 
