@@ -4,7 +4,7 @@
 
 Cursando análise e desenvolvimento de sistemas pela Mackenzie.
 
-Trabalhei como desenvolvedor como estágiario de frontend, utilizando principalmente as linguaguens JavaScript e TypeScript. Neste tempo tive oportunidade de trabalhar com diversas tecnologias : ReactJS, CSS3, HTML5, Styled Components, Tailwind e Figma para criação de protótipos.
+Trabalhei como desenvolvedor frontend, utilizando principalmente as linguaguens JavaScript e TypeScript. Neste tempo tive oportunidade de trabalhar com diversas tecnologias : ReactJS, CSS3, HTML5, Styled Components, Tailwind e Figma para criação de protótipos.
 
 Minha dedicação à tecnologia vai além da programação. Estou sempre buscando aprender mais, aprimorar minhas habilidades profissionais e compartilhar experiências.
 
