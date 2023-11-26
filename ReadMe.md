@@ -2,8 +2,15 @@
 
 ## Olá, seja bem vindo ! 👋
 
-Meu nome é Lucas Farias, tenho 20 anos, e sou desenvolvedor web. <br>
-Estou cursando análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie.
+Cursando análise e desenvolvimento de sistemas pela Mackenzie.
+
+Trabalhei como desenvolvedor como estágiario de frontend, utilizando principalmente as linguaguens JavaScript e TypeScript. Neste tempo tive oportunidade de trabalhar com diversas tecnologias : ReactJS, CSS3, HTML5, Styled Components, Tailwind e Figma para criação de protótipos.
+
+Minha dedicação à tecnologia vai além da programação. Estou sempre buscando aprender mais, aprimorar minhas habilidades profissionais e compartilhar experiências.
+
+Estou procurando uma oportunidade de trabalhar em um time de desenvolvimento que esteja sempre inovando e criando produtos de alta qualidade. Tenho certeza de que posso contribuir com minhas habilidades e conhecimentos para o sucesso de sua empresa.
+
+Email : lucasfarias.ln@gmail.com
 
 
 ## Tecnologias :
