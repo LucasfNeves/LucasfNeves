@@ -1,5 +1,3 @@
-## Lucas Neves
-
 Prazer, sou Desenvolvedor web, especializado em JavaScript, TypeScript, Node.JS e React.JS. Tenho experiência em diversas tecnologias, incluindo Tailwind CSS, Styled Components, HTML, CSS, Firebase e Next.JS.
 
 Cursando Análise e Desenvolvimento de Sistemas da Universidade Presbiteriana Mackenzie.
