@@ -1,14 +1,9 @@
 ## Lucas Neves
 
-## Olá, seja bem vindo ! 👋
+Prazer, sou Desenvolvedor web, especializado em JavaScript, TypeScript, Node.JS e React.JS. Tenho experiência em diversas tecnologias, incluindo Tailwind CSS, Styled Components, HTML, CSS, Firebase e Next.JS.
 
-Cursando análise e desenvolvimento de sistemas pela Mackenzie.
+Cursando Análise e Desenvolvimento de Sistemas da Universidade Presbiteriana Mackenzie.
 
-Trabalhei como desenvolvedor frontend, utilizando principalmente as linguaguens JavaScript e TypeScript. Neste tempo tive oportunidade de trabalhar com diversas tecnologias : ReactJS, CSS3, HTML5, Styled Components, Tailwind e Figma para criação de protótipos.
-
-Minha dedicação à tecnologia vai além da programação. Estou sempre buscando aprender mais, aprimorar minhas habilidades profissionais e compartilhar experiências.
-
-Estou procurando uma oportunidade de trabalhar em um time de desenvolvimento que esteja sempre inovando e criando produtos de alta qualidade. Tenho certeza de que posso contribuir com minhas habilidades e conhecimentos para o sucesso de sua empresa.
 
 Email : lucasfarias.ln@gmail.com
 
