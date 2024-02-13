@@ -1,9 +1,8 @@
-Prazer, sou Desenvolvedor web, especializado em JavaScript, TypeScript, Node.JS e React.JS. Tenho experiência em diversas tecnologias, incluindo Tailwind CSS, Styled Components, HTML, CSS, Firebase e Next.JS.
+# Olá, meu nome é Lucas Neves
 
-Cursando Análise e Desenvolvimento de Sistemas da Universidade Presbiteriana Mackenzie.
+Prazer, sou um desenvolvedor web Full Stack apaixonado por tecnologia. Especializado em JavaScript, TypeScript, Node.js e React.js, estou sempre buscando aprimorar minhas habilidades.
 
-
-Email : lucasfarias.ln@gmail.com
+Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, estou em constante busca por desafios e oportunidades de aprendizado.
 
 ##
 
