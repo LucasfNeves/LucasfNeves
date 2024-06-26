@@ -1,8 +1,11 @@
 # Olá, meu nome é Lucas Farias
 
-Prazer, sou um desenvolvedor web Full Stack apaixonado por tecnologia. Especializado em JavaScript, TypeScript, Node.js e React.js, estou sempre buscando aprimorar minhas habilidades.
+## Sobre mim:
 
-Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, estou em constante busca por desafios e oportunidades de aprendizado.
+- 💻 Desenvolvedor Web desde 2023
+- ⚛ React / Javascript / Typescript / NodeJS
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🔗 Conheça mais sobre mim: ![Meu site](https://portifolio-lucas-01.vercel.app/), ![Meu Linkedin](https://www.linkedin.com/in/lucas-farias-das-neves/)
 
 ##
 
