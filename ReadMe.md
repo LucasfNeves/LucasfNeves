@@ -1,4 +1,4 @@
-# Olá, meu nome é Lucas Neves
+# Olá, meu nome é Lucas Farias
 
 Prazer, sou um desenvolvedor web Full Stack apaixonado por tecnologia. Especializado em JavaScript, TypeScript, Node.js e React.js, estou sempre buscando aprimorar minhas habilidades.
 
