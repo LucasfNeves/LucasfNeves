@@ -12,22 +12,23 @@ from theme import BLUE, GREEN, HOST, MUTED, ORANGE, PURPLE, TEXT, USER, esc, win
 # (chave, valor). Chave vazia = continuação da linha anterior.
 INFO = [
     ("Nome", "Lucas Farias"),
-    ("Função", "Desenvolvedor Fullstack · Freelancer"),
+    ("Função", "Desenvolvedor Fullstack"),
+    ("Empresa", "Compass UOL · grupo AI/R"),
     ("Local", "Guarulhos, SP · Brasil"),
     ("Na área", "desde 2023"),
-    ("Agora", "Sistemas sob medida para clientes"),
-    ("", "ex.: módulo de timesheet p/ sistema jurídico"),
     ("Formação", "Análise e Desenv. de Sistemas · Mackenzie"),
-    ("Estudando", "Arquitetura de Software"),
+    ("Pós", "Engenharia de Software · FIAP"),
+    ("Foco", "Arquitetura de Software"),
     ("", "Clean Arch · DDD · Hexagonal · Event-Driven"),
     ("Front", "React · Next.js · TypeScript · Tailwind"),
     ("Back", "Node.js · NestJS · GraphQL · Express"),
     ("Dados", "PostgreSQL · Prisma · MongoDB"),
     ("DevOps", "Docker · CI/CD · Vitest · Jest"),
-    ("Projetos", "MyCashly (finanças) · WaiterApp"),
+    ("Projetos", "Vivo Commerce · Lusiana E-commerce"),
+    ("", "ProSESMT · Mobi Logística"),
 ]
 
-W, H = 490, 400
+W, H = 490, 420
 STATIC = os.environ.get("STATIC") == "1"
 OUT = Path(__file__).resolve().parent.parent / "info-card.svg"
 
@@ -59,15 +60,17 @@ def main() -> None:
     y += 22
     t += 0.15
 
+    prev = ""
     for key, val in INFO:
         line = (
             f'<text y="{y}" font-size="12.5" xml:space="preserve">'
             + (f'<tspan x="{x_key}" fill="{BLUE}" font-weight="700">{esc(key)}</tspan>' if key else "")
-            + f'<tspan x="{x_val}" fill="{TEXT if key else MUTED}">{esc(val)}</tspan></text>'
+            + f'<tspan x="{x_val}" fill="{MUTED if (not key and prev == "Foco") else TEXT}">{esc(val)}</tspan></text>'
         )
         parts.append(appear(line, t))
         y += 19
         t += 0.12
+        prev = key or prev
 
     # blocos de cor do neofetch
     y += 6

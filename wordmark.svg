@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="370" height="400" viewBox="0 0 370 400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="420" viewBox="0 0 370 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
     
   </style>
-  <rect x="0.5" y="0.5" width="369" height="399" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="369" height="419" rx="10" fill="#0d1117" stroke="#30363d"/>
   <path d="M0.5 32 V10.5 a10 10 0 0 1 10 -10 H359.5 a10 10 0 0 1 10 10 V32 Z" fill="#161b22"/>
   <line x1="0.5" y1="32" x2="369.5" y2="32" stroke="#30363d"/>
   <circle cx="18" cy="16" r="5.5" fill="#ff5f56"/>
@@ -76,31 +76,31 @@
     <set attributeName="opacity" to="0" begin="2.71s"/>
   </rect>
   <clipPath id="c101"><rect x="26" y="276" height="22" width="0">
-    <animate attributeName="width" from="0" to="277.59999999999997" begin="2.78s" dur="0.93s" fill="freeze"/>
+    <animate attributeName="width" from="0" to="194.0" begin="2.78s" dur="0.69s" fill="freeze"/>
   </rect></clipPath>
-  <g clip-path="url(#c101)"><text x="26" y="290" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">disponível para projetos freelance</tspan></text></g>
+  <g clip-path="url(#c101)"><text x="26" y="290" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">fullstack @ Compass UOL</tspan></text></g>
   <rect y="279" width="7" height="14" fill="#39d353" opacity="0">
-    <animate attributeName="x" from="26" to="303.59999999999997" begin="2.78s" dur="0.93s" fill="freeze"/>
+    <animate attributeName="x" from="26" to="220.0" begin="2.78s" dur="0.69s" fill="freeze"/>
     <set attributeName="opacity" to="0.85" begin="2.78s"/>
-    <set attributeName="opacity" to="0" begin="3.71s"/>
+    <set attributeName="opacity" to="0" begin="3.46s"/>
   </rect>
   <clipPath id="c102"><rect x="26" y="300" height="22" width="0">
-    <animate attributeName="width" from="0" to="201.6" begin="3.78s" dur="0.71s" fill="freeze"/>
+    <animate attributeName="width" from="0" to="239.6" begin="3.53s" dur="0.82s" fill="freeze"/>
   </rect></clipPath>
-  <g clip-path="url(#c102)"><text x="26" y="314" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">back-end bem arquitetado</tspan></text></g>
+  <g clip-path="url(#c102)"><text x="26" y="314" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">foco: arquitetura de software</tspan></text></g>
   <rect y="303" width="7" height="14" fill="#39d353" opacity="0">
-    <animate attributeName="x" from="26" to="227.6" begin="3.78s" dur="0.71s" fill="freeze"/>
-    <set attributeName="opacity" to="0.85" begin="3.78s"/>
-    <set attributeName="opacity" to="0" begin="4.48s"/>
+    <animate attributeName="x" from="26" to="265.6" begin="3.53s" dur="0.82s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.53s"/>
+    <set attributeName="opacity" to="0" begin="4.35s"/>
   </rect>
   <clipPath id="c103"><rect x="26" y="324" height="22" width="0">
-    <animate attributeName="width" from="0" to="247.2" begin="4.55s" dur="0.84s" fill="freeze"/>
+    <animate attributeName="width" from="0" to="224.39999999999998" begin="4.42s" dur="0.77s" fill="freeze"/>
   </rect></clipPath>
-  <g clip-path="url(#c103)"><text x="26" y="338" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">front-end que dá gosto de usar</tspan></text></g>
+  <g clip-path="url(#c103)"><text x="26" y="338" font-size="12.5" xml:space="preserve"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">aberto a projetos freelance</tspan></text></g>
   <rect y="327" width="7" height="14" fill="#39d353" opacity="0">
-    <animate attributeName="x" from="26" to="273.2" begin="4.55s" dur="0.84s" fill="freeze"/>
-    <set attributeName="opacity" to="0.85" begin="4.55s"/>
-    <set attributeName="opacity" to="0" begin="5.39s"/>
+    <animate attributeName="x" from="26" to="250.39999999999998" begin="4.42s" dur="0.77s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.42s"/>
+    <set attributeName="opacity" to="0" begin="5.20s"/>
   </rect>
-  <g opacity="0"><text x="26" y="362" font-size="12.5" fill="#58a6ff">$</text><rect x="40" y="351" width="7" height="14" fill="#39d353"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite" begin="5.46s"/></rect><set attributeName="opacity" to="1" begin="5.46s"/></g>
+  <g opacity="0"><text x="26" y="362" font-size="12.5" fill="#58a6ff">$</text><rect x="40" y="351" width="7" height="14" fill="#39d353"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite" begin="5.27s"/></rect><set attributeName="opacity" to="1" begin="5.27s"/></g>
 </svg>

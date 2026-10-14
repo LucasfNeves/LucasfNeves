@@ -14,12 +14,12 @@ from theme import BLUE, GREEN, MUTED, TEXT, esc, window
 NAME = "LUCAS"
 STATUS = [
     ("$ ", "cat status.txt"),
-    ("> ", "disponível para projetos freelance"),
-    ("> ", "back-end bem arquitetado"),
-    ("> ", "front-end que dá gosto de usar"),
+    ("> ", "fullstack @ Compass UOL"),
+    ("> ", "foco: arquitetura de software"),
+    ("> ", "aberto a projetos freelance"),
 ]
 
-W, H = 370, 400
+W, H = 370, 420
 STATIC = os.environ.get("STATIC") == "1"
 OUT = Path(__file__).resolve().parent.parent / "wordmark.svg"
 
