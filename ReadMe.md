@@ -18,7 +18,7 @@
 <h3><code>lucas@github ~ $ ./links.sh</code></h3>
 
 <a href="https://portifolio-lucas-01.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-portifolio--lucas-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/lucas-farias-das-neves-118845239/"><img src="https://img.shields.io/badge/LinkedIn-Lucas_Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lucas-farias-das-neves/"><img src="https://img.shields.io/badge/LinkedIn-Lucas_Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:lucasfarias.ln@gmail.com"><img src="https://img.shields.io/badge/E--mail-lucasfarias.ln-39d353?style=for-the-badge&logo=gmail&logoColor=black" alt="E-mail" /></a>
 
 </div>
