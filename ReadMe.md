@@ -1,10 +1,24 @@
-# Olá, meu nome é Lucas Farias
+<div align="center">
 
-## Sobre mim:
+<h3><code>lucas@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./wordmark.svg" width="370" alt="LUCAS — wordmark em ASCII" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Lucas Farias — Desenvolvedor Fullstack · Freelancer. Stack: React, Next.js, TypeScript, Node.js, NestJS, GraphQL, PostgreSQL, Prisma, Docker." /></td>
+  </tr>
+</table>
 
-- 💻 Desenvolvedor Web desde 2023
-- ⚛ React / Javascript / Typescript / NodeJS
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🔗 Conheça mais sobre mim: [Meu site](https://portifolio-lucas-01.vercel.app/), [Meu Linkedin](https://www.linkedin.com/in/lucas-farias-das-neves/)
+<br>
 
-##
+<h3><code>lucas@github ~ $ ./contribuicoes.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Lucas, atualizado todo dia" />
+
+<br><br>
+
+<h3><code>lucas@github ~ $ ./links.sh</code></h3>
+
+<a href="https://portifolio-lucas-01.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-portifolio--lucas-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/lucas-farias-das-neves-118845239/"><img src="https://img.shields.io/badge/LinkedIn-Lucas_Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lucasfarias.ln@gmail.com"><img src="https://img.shields.io/badge/E--mail-lucasfarias.ln-39d353?style=for-the-badge&logo=gmail&logoColor=black" alt="E-mail" /></a>
+
+</div>

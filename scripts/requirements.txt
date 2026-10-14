@@ -1,0 +1,4 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# só para regenerar o wordmark localmente (não usado pelo workflow diário):
+pyfiglet
