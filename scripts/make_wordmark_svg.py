@@ -19,7 +19,7 @@ STATUS = [
     ("> ", "aberto a projetos freelance"),
 ]
 
-W, H = 370, 420
+W, H = 370, 440
 STATIC = os.environ.get("STATIC") == "1"
 OUT = Path(__file__).resolve().parent.parent / "wordmark.svg"
 

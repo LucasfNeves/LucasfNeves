@@ -17,18 +17,19 @@ INFO = [
     ("Local", "Guarulhos, SP · Brasil"),
     ("Na área", "desde 2023"),
     ("Formação", "Análise e Desenv. de Sistemas · Mackenzie"),
-    ("Pós", "Engenharia de Software · FIAP"),
+    ("Pós", "Software Architecture · FIAP"),
     ("Foco", "Arquitetura de Software"),
     ("", "Clean Arch · DDD · Hexagonal · Event-Driven"),
     ("Front", "React · Next.js · TypeScript · Tailwind"),
     ("Back", "Node.js · NestJS · GraphQL · Express"),
     ("Dados", "PostgreSQL · Prisma · MongoDB"),
-    ("DevOps", "Docker · CI/CD · Vitest · Jest"),
+    ("DevOps", "Docker · CI/CD · GitHub Actions"),
+    ("Testes", "Vitest · Jest"),
     ("Projetos", "Vivo Commerce · Lusiana E-commerce"),
     ("", "ProSESMT · Mobi Logística"),
 ]
 
-W, H = 490, 420
+W, H = 490, 440
 STATIC = os.environ.get("STATIC") == "1"
 OUT = Path(__file__).resolve().parent.parent / "info-card.svg"
 

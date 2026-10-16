@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./wordmark.svg" width="370" alt="LUCAS — wordmark em ASCII" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Lucas Farias — Desenvolvedor Fullstack na Compass UOL. Foco em arquitetura de software. Stack: React, Next.js, TypeScript, Node.js, NestJS, GraphQL, PostgreSQL, Prisma, Docker." /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Lucas Farias — Desenvolvedor Fullstack na Compass UOL. Pós em Software Architecture na FIAP. Stack: React, Next.js, TypeScript, Node.js, NestJS, GraphQL, PostgreSQL, Prisma, Docker." /></td>
   </tr>
 </table>
 
